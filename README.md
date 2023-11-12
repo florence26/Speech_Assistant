@@ -1,2 +1,1 @@
-# Speech_Assistant
-Speech Assistant powered by ChatGPT
+# Speech Assistant powered by GPT 3.5
