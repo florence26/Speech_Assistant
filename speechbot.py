@@ -78,5 +78,5 @@ while True:
     
     print(response["content"])
 
-#https://www.youtube.com/watch?v=u4oE49sWI4w&ab_channel=JarodsJourney
+#Inspired by: https://www.youtube.com/watch?v=u4oE49sWI4w&ab_channel=JarodsJourney
 
